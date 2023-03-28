@@ -26,3 +26,6 @@ public class OOPS2 {
         s2.printInfo();
     }
 }
+// We do not have destructors in Java like we have in C++
+// Because Java have Garbage Collectors while automatically deletes
+// the unused constructors
