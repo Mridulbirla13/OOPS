@@ -1,10 +1,9 @@
 // Inheritance is of 4 types in JAVA
 //1) Single Level Inheritance
-//
+
 class Shape{
     String color;
-
-    public void area(){
+     public void area(){
         System.out.println("displays area");
     }
 }
